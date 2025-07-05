@@ -1,6 +1,10 @@
+Streamer – README
+
+"Onde o streaming vira comunidade."
+
 Visão Geral
 
-Hooney++ é um(a) streamer brasileiro(a) apaixonado(a) por cultura pop, games e tecnologia. A proposta vai além de apenas transmitir conteúdo: a missão é criar uma colmeia (community hive) onde cada espectador se sente parte ativa — comentando, votando, criando listas e interagindo em tempo real através da plataforma hooneyplus.com.
+Este(a) streamer brasileiro(a) é apaixonado(a) por cultura pop, games e tecnologia. A proposta vai além de apenas transmitir conteúdo: a missão é criar uma colmeia (community hive) onde cada espectador se sente parte ativa — comentando, votando, criando listas e interagindo em tempo real através da plataforma hooneyplus.com.
 
 Principais Conteúdos
 
@@ -16,7 +20,7 @@ Como Participar
 
 Crie sua conta em https://www.hooneyplus.com/pt/login.
 
-Siga o canal Hooney++ nas plataformas abaixo.
+Siga o canal do streamer nas plataformas abaixo.
 
 Ative as notificações para não perder nenhuma live.
 
@@ -89,9 +93,9 @@ Suporte & Doações
 
 Se você curte o conteúdo e quer apoiar:
 
-Pix: hooney@suporte.com
+Pix: streamer@suporte.com
 
-Ko‑fi: https://ko‑fi.com/hooneyplusplus
+Ko‑fi: https://ko‑fi.com/streamer
 
 Sub na Twitch ou Membro no YouTube
 
@@ -105,8 +109,8 @@ Este projeto está licenciado sob a MIT License — veja o arquivo LICENSE para 
 
 🤝 Contato Comercial
 
-E‑mail: business@hooneyplus.com
+E‑mail: business@streamer.com
 
-LinkedIn: linkedin.com/in/hooneyplusplus
+LinkedIn: linkedin.com/in/streamer
 
-TL;DR: Hooney++ cria lives interativas e uma comunidade acolhedora para quem ama games, séries e tecnologia. Junte‑se à colmeia e faça parte da próxima transmissão!
+TL;DR: Este(a) streamer cria lives interativas e uma comunidade acolhedora para quem ama games, séries e tecnologia. Junte‑se à colmeia e faça parte da próxima transmissão!
